@@ -1,0 +1,1 @@
+/home/kk9/mine_sweepers/tutorial/catkin_ws/devel/.private/turtlebot_actions/share/roseus/ros/turtlebot_actions/msg/FindFiducialAction.l

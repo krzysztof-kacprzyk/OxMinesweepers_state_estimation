@@ -1,0 +1,1 @@
+/home/kk9/mine_sweepers/tutorial/catkin_ws/devel/.private/turtlebot_calibration/share/gennodejs/ros/turtlebot_calibration/_index.js

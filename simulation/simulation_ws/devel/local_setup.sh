@@ -1,0 +1,1 @@
+/home/kk9/mine_sweepers/tutorial/simulation_ws/devel/.private/catkin_tools_prebuild/local_setup.sh

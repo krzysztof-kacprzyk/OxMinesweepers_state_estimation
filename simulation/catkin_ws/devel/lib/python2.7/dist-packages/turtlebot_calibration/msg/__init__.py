@@ -1,0 +1,1 @@
+/home/kk9/mine_sweepers/tutorial/catkin_ws/devel/.private/turtlebot_calibration/lib/python2.7/dist-packages/turtlebot_calibration/msg/__init__.py
