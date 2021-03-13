@@ -1,1 +1,0 @@
-/home/kk9/mine_sweepers/tutorial/simulation_ws/devel/.private/catkin_tools_prebuild/_setup_util.py

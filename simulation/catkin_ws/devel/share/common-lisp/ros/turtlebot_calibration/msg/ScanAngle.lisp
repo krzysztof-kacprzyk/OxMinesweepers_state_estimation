@@ -1,1 +1,0 @@
-/home/kk9/mine_sweepers/tutorial/catkin_ws/devel/.private/turtlebot_calibration/share/common-lisp/ros/turtlebot_calibration/msg/ScanAngle.lisp

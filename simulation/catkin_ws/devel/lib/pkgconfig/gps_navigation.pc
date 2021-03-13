@@ -1,1 +1,0 @@
-/home/kk9/mine_sweepers/tutorial/catkin_ws/devel/.private/gps_navigation/lib/pkgconfig/gps_navigation.pc

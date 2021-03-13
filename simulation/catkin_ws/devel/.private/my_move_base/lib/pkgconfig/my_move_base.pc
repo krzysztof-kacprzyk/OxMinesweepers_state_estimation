@@ -1,8 +1,0 @@
-prefix=/home/kk9/mine_sweepers/tutorial/catkin_ws/devel/.private/my_move_base
-
-Name: my_move_base
-Description: Description of my_move_base
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

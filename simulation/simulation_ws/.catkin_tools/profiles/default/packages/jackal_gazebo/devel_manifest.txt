@@ -1,5 +1,0 @@
-jackal_simulator/jackal_gazebo
-/home/kk9/mine_sweepers/tutorial/simulation_ws/devel/.private/jackal_gazebo/cmake.lock /home/kk9/mine_sweepers/tutorial/simulation_ws/devel/./cmake.lock
-/home/kk9/mine_sweepers/tutorial/simulation_ws/devel/.private/jackal_gazebo/lib/pkgconfig/jackal_gazebo.pc /home/kk9/mine_sweepers/tutorial/simulation_ws/devel/lib/pkgconfig/jackal_gazebo.pc
-/home/kk9/mine_sweepers/tutorial/simulation_ws/devel/.private/jackal_gazebo/share/jackal_gazebo/cmake/jackal_gazeboConfig.cmake /home/kk9/mine_sweepers/tutorial/simulation_ws/devel/share/jackal_gazebo/cmake/jackal_gazeboConfig.cmake
-/home/kk9/mine_sweepers/tutorial/simulation_ws/devel/.private/jackal_gazebo/share/jackal_gazebo/cmake/jackal_gazeboConfig-version.cmake /home/kk9/mine_sweepers/tutorial/simulation_ws/devel/share/jackal_gazebo/cmake/jackal_gazeboConfig-version.cmake

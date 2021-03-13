@@ -1,5 +1,0 @@
-gps_navigation
-/home/kk9/mine_sweepers/tutorial/catkin_ws/devel/.private/gps_navigation/cmake.lock /home/kk9/mine_sweepers/tutorial/catkin_ws/devel/./cmake.lock
-/home/kk9/mine_sweepers/tutorial/catkin_ws/devel/.private/gps_navigation/lib/pkgconfig/gps_navigation.pc /home/kk9/mine_sweepers/tutorial/catkin_ws/devel/lib/pkgconfig/gps_navigation.pc
-/home/kk9/mine_sweepers/tutorial/catkin_ws/devel/.private/gps_navigation/share/gps_navigation/cmake/gps_navigationConfig.cmake /home/kk9/mine_sweepers/tutorial/catkin_ws/devel/share/gps_navigation/cmake/gps_navigationConfig.cmake
-/home/kk9/mine_sweepers/tutorial/catkin_ws/devel/.private/gps_navigation/share/gps_navigation/cmake/gps_navigationConfig-version.cmake /home/kk9/mine_sweepers/tutorial/catkin_ws/devel/share/gps_navigation/cmake/gps_navigationConfig-version.cmake

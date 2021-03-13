@@ -1,1 +1,0 @@
-/home/kk9/mine_sweepers/tutorial/catkin_ws/devel/.private/turtlebot_calibration/share/roseus/ros/turtlebot_calibration/manifest.l

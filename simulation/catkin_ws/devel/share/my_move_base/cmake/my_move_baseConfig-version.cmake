@@ -1,1 +1,0 @@
-/home/kk9/mine_sweepers/tutorial/catkin_ws/devel/.private/my_move_base/share/my_move_base/cmake/my_move_baseConfig-version.cmake

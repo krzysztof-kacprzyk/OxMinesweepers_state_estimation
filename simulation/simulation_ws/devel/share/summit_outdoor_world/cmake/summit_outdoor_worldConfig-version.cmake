@@ -1,1 +1,0 @@
-/home/kk9/mine_sweepers/tutorial/simulation_ws/devel/.private/summit_outdoor_world/share/summit_outdoor_world/cmake/summit_outdoor_worldConfig-version.cmake
